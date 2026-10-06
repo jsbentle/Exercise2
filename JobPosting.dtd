@@ -20,9 +20,4 @@
         <!ELEMENT bs (#PCDATA)>
         <!ELEMENT mams (#PCDATA)>
         <!ELEMENT phd (#PCDATA)>
-      <!ELEMENT required (#PCDATA)>
-      <!ELEMENT preferred (#PCDATA)>
-      <!ELEMENT licences (EMPTY)>
-    <!ELEMENT dates ()>
-       <!ELEMENT posted (#PCDATA)>
-       <!ELEMENT closed (#PCDATA)>
+    )

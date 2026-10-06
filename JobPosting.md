@@ -24,5 +24,3 @@
       </qualifications>
     </posting-information>
   </job-posting>
-    </posting-information>
-  </job-posting>

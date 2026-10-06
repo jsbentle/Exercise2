@@ -1,6 +1,9 @@
 <!DOCTYPE job-posting
   [<!ELEMENT job-posting (
-    <!ELEMENT posting-information (posting-number, internal-recruitment, working-title, hiring-range, work-schedule, job-location, department, essential-job-duties, other-responsibilities)>
+    <!ELEMENT posting-information (job-details, duties, qualifications)>
+      <!ELEMENT job-details (list)>
+        <!ELEMENT list (item)*>
+        <!ELEMENT item (#PCDATA | posting-number | internal-recruitment | working-title | hiring-range | work-schedule | job-location | department)*>
       <!ELEMENT posting-number (#PCDATA)>
       <!ELEMENT internal-recruitment (#PCDATA)>
       <!ELEMENT working-title (#PCDATA)>

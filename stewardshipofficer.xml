@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 <!DOCTYPE job-posting SYSTEM "JobPosting.dtd">
-  <job-posting>
-    
+  <job-posting> 
     <working-title><h1>Stewardship Officer</h1></working-title>
     <posting-number>1234567</posting-number>
     <internal-recruitment>No</internal-recruitment>
@@ -15,3 +14,4 @@
       <p> </p>
     </essential-job-duties>
   
+  </job-posting>

@@ -11,8 +11,9 @@
           <!ELEMENT work-schedule (#PCDATA)>
           <!ELEMENT job-location (#PCDATA)>
           <!ELEMENT department (#PCDATA)>
-      <!ELEMENT essential-job-duties (#PCDATA)>
-      <!ELEMENT other-responsibilities (#PCDATA)>
+      <!ELEMENT duties (list 2)>
+        <!ELEMENT list 2 (item2)*>
+        <!ELEMENT item2 (#PCDATA)>
     <!ELEMENT qualifications (education, required, preferred, licences)>
       <!ELEMENT education (hs | bs | mams | phd)>
         <!ELEMENT hs (#PCDATA)>

@@ -2,7 +2,9 @@
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 <!DOCTYPE job-posting SYSTEM "JobPosting.dtd">
   <job-posting> 
-    <posting-information></posting-information>
+    <posting-information>
+      <job-details></job-details>
+    </posting-information>
     <working-title>Title: Stewardship Officer</working-title>
     <posting-number>ID: 1234567</posting-number>
     <internal-recruitment>Internal Recruitment: No</internal-recruitment>

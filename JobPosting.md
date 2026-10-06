@@ -14,5 +14,15 @@
             <item><department>Department: University Advancement</department></item>  
          </list>  
       </job-details>
+      <duties>
+        <list 2>
+            <item2>Job duties: The essential functions of this position include administering the leadership acknowledgment process, leading tailored stewardship and recognition strategies for select donors, and advising on annual stewardship priorities and special projects. Additionally, the role advances universitywide initiatives like campaign stewardship, Day of Giving, and Pack Appreciation Day, coordinates special-day donor communications, serves as a liaison for endowment reports, maintains accurate donor records, and stays aligned with emerging industry trends and best practices.</item2>
+        </list 2>
+      </duties>
+      <qualifications>
+        <education><bs>Minimum Qualifications: Bachelor's degree or equivalent work experience</bs></education>
+      </qualifications>
+    </posting-information>
+  </job-posting>
     </posting-information>
   </job-posting>

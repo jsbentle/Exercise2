@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 <!DOCTYPE job-posting SYSTEM "JobPosting.dtd">
   <job-posting> 
-    <working-title><h1>Stewardship Officer</h1></working-title>
+    <working-title>Stewardship Officer</working-title>
     <posting-number>1234567</posting-number>
     <internal-recruitment>No</internal-recruitment>
     <working-title>Stewardship Officer</working-title>
@@ -10,8 +10,6 @@
     <work-schedule>M-F 8a - 5p</work-schedule>
     <job-location>Raleigh,NC</job-location>
     <department>University Advancement</department>
-    <essential-job-duties>
-      <p> </p>
-    </essential-job-duties>
+    <essential-job-duties></essential-job-duties>
   
   </job-posting>

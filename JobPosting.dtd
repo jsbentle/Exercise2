@@ -10,6 +10,15 @@
       <!ELEMENT department (#PCDATA)>
       <!ELEMENT essential-job-duties (#PCDATA)>
       <!ELEMENT other-responsibilities (#PCDATA)>
-    <!ELEMENT
-    
-          
+    <!ELEMENT qualifications (education, required, preferred, licences)>
+      <!ELEMENT education (hs | bs | mams | phd)>
+        <!ELEMENT hs (#PCDATA)>
+        <!ELEMENT bs (#PCDATA)>
+        <!ELEMENT mams (#PCDATA)>
+        <!ELEMENT phd (#PCDATA)>
+      <!ELEMENT required (#PCDATA)>
+      <!ELEMENT preferred (#PCDATA)>
+      <!ELEMENT licences (EMPTY)>
+    <!ELEMENT dates ()>
+       <!ELEMENT posted (#PCDATA)>
+       <!ELEMENT closed (#PCDATA)>
